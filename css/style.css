@@ -3,11 +3,38 @@
 }
 
 .welcome {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 50%;
+    height: 100vh;
+    padding: 15px;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
     width: 50%;
     height: 100vh;
 }
 
-.main-content {
-    width: 50%;
-    height: 100vh;
+.welcome__header {
+
+}
+
+.welcome__article {
+
+}
+
+.welcome__footer {
+
+}
+
+.main-content__title {
+
+}
+
+.main-content__articles {
+    flex: 1;
+
 }
