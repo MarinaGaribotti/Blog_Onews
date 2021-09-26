@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+.welcome {
+    width: 50%;
+    height: 100vh;
+}
+
+.main-content {
+    width: 50%;
+    height: 100vh;
+}
